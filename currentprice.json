@@ -1,19 +1,8 @@
 {"time":{
 	"Id":"186687",
 	"Name":"Camily 👄",
-	"updateduk":""},
-	"disclaimer":"",
-	"chartName":"",
-	"bpi":{"USD":{"code":"USD","symbol":"&#36;","rate":"45,781.3084",
-	"description":"",
-	"rate_float":45781.3084},
-	"GBP":{"code":"GBP",
-	"symbol":"&pound;",
-	"rate":"34,785.2790",
-	"description":"",
-	"rate_float":34785.279},
-	"EUR":{"code":"EUR","symbol":"&euro;",
-	"rate":"41,735.2937",
+	"Date":"12/05/2000"
+},
 	"description":"Euro",
 	"rate_float":41735.2937
-	}}}
+}
